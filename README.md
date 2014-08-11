@@ -1,0 +1,4 @@
+HSR.modules.BsKon
+=================
+
+Betriebsystemkonzepte
